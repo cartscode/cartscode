@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="205" viewBox="0 0 900 205"><defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset="1" stop-color="#38BDF8" stop-opacity="1"/></linearGradient><linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="1"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient></defs><rect width="900" height="205" fill="#0d1117"/>
+<line x1="30" y1="42" x2="225" y2="42" stroke="url(#l)" stroke-width="2"/>
+<line x1="675" y1="42" x2="870" y2="42" stroke="url(#r)" stroke-width="2"/>
+<text x="450" y="60" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="50" font-weight="800" letter-spacing="7" fill="#7dd3fc">CARTER CARIG</text>
+<text x="450" y="104" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="19" fill="#7dd3fc">BS Information Technology Student | Aspiring Web Developer</text>
+<text x="450" y="132" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="19" fill="#7dd3fc">Building Ideas Into Reality | Always Learning and Improving</text>
+<line x1="30" y1="168" x2="320" y2="168" stroke="url(#l)" stroke-width="2"/>
+<line x1="580" y1="168" x2="870" y2="168" stroke="url(#r)" stroke-width="2"/>
+<rect x="332" y="148" width="236" height="40" rx="20" fill="none" stroke="#38BDF8" stroke-width="2">
+<animate attributeName="stroke-opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite"/></rect>
+<text x="450" y="174" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#38BDF8">DEVELOPER IN PROGRESS</text></svg>
