@@ -3,7 +3,7 @@
 
 # CARTER CARIG
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=BS+Information+Technology+Student;Aspiring+Web+Developer;Building+Ideas+Into+Reality;Always+Learning+and+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=BS+Information+Technology+Student;Aspiring+Web+Developer;Building+Ideas+Into+Reality;Always+Learning+and+Improving" />
 
 <img src="https://img.shields.io/badge/DEVELOPER-IN%20PROGRESS-0EA5E9?style=for-the-badge" />
 
@@ -13,13 +13,13 @@
 
 ## ABOUT ME
 
-I am a Bachelor of Science in Information Technology student with an interest in web development, backend systems, and software engineering.
+I am a Bachelor of Science in Information Technology student interested in web development, software engineering, backend systems, and artificial intelligence.
 
-- Currently studying Information Technology
+- Currently pursuing BS Information Technology
 - Aspiring Web Developer
 - Interested in building practical software solutions
 - Exploring backend development, databases, and AI
-- Continuously learning new technologies and improving my skills
+- Continuously learning and improving my programming skills
 
 ## TECHNOLOGIES & TOOLS
 
@@ -29,9 +29,18 @@ I am a Bachelor of Science in Information Technology student with an interest in
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java" />
 
-### Database & Development Tools
+### Database & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+
+### Development Tools & IDEs
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,netbeans,git,github" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio-2026-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20NetBeans-IDE-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
 
 </div>
 
@@ -43,11 +52,15 @@ I am a Bachelor of Science in Information Technology student with an interest in
 | Lost-and-Found AI | AI-Powered Lost Item Matching System |
 | CueTrack | Production Management System |
 
-## GITHUB CONTRIBUTION & CODING ACTIVITY
+## GITHUB CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cartscode&bg_color=0d1117&color=38bdf8&line=2563eb&point=38bdf8&area=true&area_color=1e40af&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" />
+<img width="100%" src="https://ghchart.rshah.org/38BDF8/cartscode" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cartscode&bg_color=0d1117&color=38bdf8&line=2563eb&point=38bdf8&area=true&hide_border=true&custom_title=CODING%20ACTIVITY" />
 
 </div>
 
@@ -65,12 +78,12 @@ I am a Bachelor of Science in Information Technology student with an interest in
 
 <div align="center">
 
-### THANK YOU FOR VISITING MY PROFILE
+# THANK YOU FOR VISITING MY PROFILE
 
 <img src="https://komarev.com/ghpvc/?username=cartscode&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
 
-<br/>
+<br/><br/>
 
-<sub>Learning. Building. Improving.</sub>
+<sub>LEARNING · BUILDING · IMPROVING</sub>
 
 </div>
