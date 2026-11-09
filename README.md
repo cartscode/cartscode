@@ -1,38 +1,38 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Carter Carig
+# CARTER CARIG
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BS+Information+Technology+Student;Aspiring+Web+Developer;Building+Ideas+Into+Reality;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BS+Information+Technology+Student;Aspiring+Web+Developer;Building+Ideas+Into+Reality;Welcome+to+my+GitHub" />
 
-<img src="https://img.shields.io/badge/Developer-in%20Progress-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEVELOPER-IN%20PROGRESS-0EA5E9?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🌌 About Me
+## ABOUT ME
 
-- 🎓 BS Information Technology Student
-- 💻 Aspiring Web Developer
-- 🚀 Interested in Web Development, Backend Systems, and AI
-- 🌱 Always learning and building new projects.
+- BS Information Technology Student
+- Aspiring Web Developer
+- Interested in Web Development, Backend Systems, and AI
+- Always learning and building new projects
 
-## 🛠️ Technologies & Tools
+## TECHNOLOGIES & TOOLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java,mysql,supabase,git,github,vscode" />
 </p>
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
 | Project | Description |
 |---|---|
-| 🏨 HotelEase | Hotel Management and Reservation System |
-| 🔍 Lost-and-Found AI | AI-powered lost item matching |
-| 📊 CueTrack | Production Management System |
+| HotelEase | Hotel Management and Reservation System |
+| Lost-and-Found AI | AI-powered lost item matching |
+| CueTrack | Production Management System |
 
-## 📊 GitHub Statistics
+## GITHUB STATISTICS
 
 <div align="center">
 
@@ -44,22 +44,12 @@
 
 </div>
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cartscode/cartscode/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### THANK YOU FOR VISITING MY PROFILE
 
 <img src="https://komarev.com/ghpvc/?username=cartscode&style=for-the-badge&color=0EA5E9" />
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cartscode/cartscode/output/github-contribution-grid-snake-dark.svg" />
-</p>
