@@ -1,89 +1,44 @@
-
 <div align="center">
 
-# CARTER CARIG
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=BS+Information+Technology+Student;Aspiring+Web+Developer;Building+Ideas+Into+Reality;Always+Learning+and+Improving" />
-
-<img src="https://img.shields.io/badge/DEVELOPER-IN%20PROGRESS-0EA5E9?style=for-the-badge" />
+<img src="assets/header.svg" width="100%" alt="Carter Carig - BS Information Technology Student | Aspiring Web Developer" />
 
 </div>
 
----
+<img src="assets/title-about.svg" width="100%" alt="About Me" />
 
-## ABOUT ME
+I am a Bachelor of Science in Information Technology student with an interest in web development, backend systems, and software engineering.
 
-I am a Bachelor of Science in Information Technology student interested in web development, software engineering, backend systems, and artificial intelligence.
+&nbsp;•&nbsp; Currently studying Information Technology &nbsp;&nbsp;•&nbsp; Aspiring Web Developer &nbsp;&nbsp;•&nbsp; Interested in building practical software solutions<br/>
+&nbsp;•&nbsp; Exploring backend development, databases, and AI &nbsp;&nbsp;•&nbsp; Continuously learning and improving my skills
 
-- Currently pursuing BS Information Technology
-- Aspiring Web Developer
-- Interested in building practical software solutions
-- Exploring backend development, databases, and AI
-- Continuously learning and improving my programming skills
-
-## TECHNOLOGIES & TOOLS
+<img src="assets/title-tech.svg" width="100%" alt="Technologies and Tools" />
 
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java" />
-
-### Database & Backend
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase" />
-
-### Development Tools & IDEs
-
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,netbeans,git,github" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio-2026-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20NetBeans-IDE-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java,mysql,supabase,git,github,vscode&perline=11" alt="Tech stack" />
 
 </div>
 
-## FEATURED PROJECTS
+<img src="assets/title-projects.svg" width="100%" alt="Featured Projects" />
 
 | PROJECT | DESCRIPTION |
 |:---|:---|
-| HotelEase | Web-Based Hotel Management and Reservation System |
-| Lost-and-Found AI | AI-Powered Lost Item Matching System |
-| CueTrack | Production Management System |
+| **HotelEase** | Web-Based Hotel Management and Reservation System |
+| **Lost-and-Found AI** | AI-Powered Lost Item Matching System |
+| **CueTrack** | Production Management System |
 
-## GITHUB CONTRIBUTION ACTIVITY
+<img src="assets/title-activity.svg" width="100%" alt="GitHub Contribution and Activity" />
 
-<div align="center">
+<img src="assets/contributions.svg" width="100%" alt="Contribution graph" />
 
-<img width="100%" src="https://ghchart.rshah.org/38BDF8/cartscode" />
+<img src="assets/title-stats.svg" width="100%" alt="GitHub Statistics" />
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cartscode&bg_color=0d1117&color=38bdf8&line=2563eb&point=38bdf8&area=true&hide_border=true&custom_title=CODING%20ACTIVITY" />
-
-</div>
-
-## GITHUB STATISTICS
+<img src="assets/statistics.svg" width="100%" alt="Total commits and top languages" />
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cartscode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="assets/footer.svg" width="100%" alt="Thank you for visiting my profile" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartscode&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-# THANK YOU FOR VISITING MY PROFILE
-
-<img src="https://komarev.com/ghpvc/?username=cartscode&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<sub>LEARNING · BUILDING · IMPROVING</sub>
+<img src="https://komarev.com/ghpvc/?username=cartscode&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
